@@ -12,5 +12,13 @@ Steam  >>  Library  >>  Right click TF2  >>  Go to "Manage"  >>  Go to "Browse l
 
 
 
-The game will launch way slower but i don't mind extra 10 seconds waiting in exchange for smoother gameplay
+The game will launch way slower but i don't mind extra 10 seconds waiting in exchange for smoother gameplay.
+
+
+
+(FOR ADVANCED USERS ONLY) If you want to edit something go to the "custom" folder, then to the "LazyBoberConfig" folder, then to "cfg" folder, then to "app" folder. open and edit "autoexec.cfg". there are also some instructions in the autoexec itself so make sure you read everything.
+
+
+
+If you have any questions, message me: https://steamcommunity.com/profiles/76561199698727117/
 
