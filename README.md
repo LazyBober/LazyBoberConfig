@@ -8,7 +8,7 @@ And you might not know how to install it yet. Let me teach you:
 
 
 
-Steam  >>  Library  >>  Right click TF2  >>  Go to "Manage"  >>  Go to "Browse local files". This will open TF2's directory  >>  Drag the "tf" folder from MY config into YOUR TF2's directory  >>  If it asks you to replace something, do it  >>  Go to steam library again  >>  Right click TF2  >>  Go to "Properties"  >>  In "Launch Options" add "-novid -nojoy -nosteamcontroller -nohltv -particles 1" without quotation marks.
+Steam  >>  Library  >>  Right click TF2  >>  Go to "Manage"  >>  Go to "Browse local files". This will open TF2's directory  >>  Drag the "tf" folder from MY config into YOUR TF2's directory  >>  If it asks you to replace something, do it  >>  Go to "tf" then to "custom" then to "LazyBoberConfig" then to "cfg"  >>  If you are going to use one of Chris' configs the copy the one you want to use from the "chris' presets" and put it in "cfg". Same for "cfg.tf presets"  >>  Go to steam library again  >>  Right click TF2  >>  Go to "Properties"  >>  In "Launch Options" add "-novid -nojoy -nosteamcontroller -nohltv -particles 1" without quotation marks.
 
 
 

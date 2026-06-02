@@ -1,1 +1,0 @@
-#base "statsummary_embedded.res"

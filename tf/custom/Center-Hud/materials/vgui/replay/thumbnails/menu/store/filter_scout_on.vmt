@@ -1,6 +1,0 @@
-#base "filter_all.vmt"
-
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/replay/thumbnails/menu/store/filter_scout_on"
-}
